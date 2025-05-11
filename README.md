@@ -1,0 +1,1 @@
+This is a full stack project where this this project include front end code for faarmer friendly web app which helps farmetrs to interact with customers directly with out middle man. this is made using react and vite in visual studio including jav scrpt and type scrpt
